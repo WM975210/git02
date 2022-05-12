@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<yjxxt> 
+  <shyjxxt id="1"> 
+    <location>上海市浦东新区</location>  
+    <date>2021-10-10</date>  
+    <tuition>60000</tuition> 
+  </shyjxxt>  
+  <bjyjxt id="2"> 
+    <location>北京市朝阳区</location>  
+    <date>2021-10-12</date> 
+  </bjyjxt> 
+</yjxxt>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Persons>
+    <!--标记语言的注释-->
+    <!--
+    1.xml是一个标记语言    <英文单词>
+    2.xml文件中标签可以根据需求自定义
+    3.xml文件的首行必须存在版本声明
+    4.xml文件中有且仅有一个根标签 | 根元素 ，所有的子内容都定义在根元素中
+    5.xml的作用：传输、存储、配置、解析
+    6.属性：开始标签上定义属性
+        属性可以帮助更完善 | 完善的展示标签的作用
+    7.标签队的分类：
+        单标签 | 自闭和标签
+        双标签 | 闭合标签
+    -->
+    <Person id="101">
+        <name>张亮</name>
+        <age>18</age>
+        <location loc="上海"/>
+    </Person>
+    <Person id="102">
+        <name>刘强</name>
+        <age>19</age>
+    </Person>
+    <Student id="103">
+        <name>王五</name>
+        <age>18</age>
+    </Student>
+
+
+</Persons>
